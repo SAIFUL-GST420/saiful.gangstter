@@ -6,7 +6,7 @@ os.system('git pull')
 
 try:
 
-    __import__("gang").gangstter.saiful()
+    __import__("gan").gangstter.saiful()
 
 except Exception as e:
 
